@@ -1,0 +1,5 @@
+Operation,Min (s),Max (s),Avg (s),Median (s),Count,Threshold (s),Status
+presigned_url,0.000,0.001,0.001,0.000,3,2.000,✅
+upload_small,0.197,0.212,0.204,0.203,3,3.000,✅
+upload_medium,0.327,1.402,0.707,0.393,3,inf,✅
+upload_large,0.492,0.565,0.526,0.522,3,10.000,✅

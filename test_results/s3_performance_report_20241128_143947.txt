@@ -1,0 +1,33 @@
+PERFORMANCE BENCHMARK REPORT
+==============================
+
+Operation: presigned_url
+--------------------
+Min Time: 0.000s
+Max Time: 0.000s
+Avg Time: 0.000s
+Median Time: 0.000s
+Sample Count: 1
+Threshold: 2.000s
+Exceeds Threshold: No
+
+Operation: upload_small
+--------------------
+Min Time: 0.233s
+Max Time: 0.233s
+Avg Time: 0.233s
+Median Time: 0.233s
+Sample Count: 1
+Threshold: 3.000s
+Exceeds Threshold: No
+
+Operation: upload_large
+--------------------
+Min Time: 0.507s
+Max Time: 0.507s
+Avg Time: 0.507s
+Median Time: 0.507s
+Sample Count: 1
+Threshold: 10.000s
+Exceeds Threshold: No
+

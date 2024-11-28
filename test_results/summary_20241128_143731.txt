@@ -1,0 +1,11 @@
+TEST EXECUTION SUMMARY
+====================
+Total Tests: 5
+Passed: 3
+Failed: 2
+Total Time: 9.56s
+Success Rate: 60.0%
+
+Errors:
+- Non-existent file upload: File not found: non_existent.pdf
+- Invalid metadata: 'NoneType' object has no attribute 'encode'

@@ -1,0 +1,12 @@
+Operation,Min (s),Max (s),Avg (s),Threshold (s),Status
+presigned_url,0.000,0.001,0.001,0.100,✅
+upload_small,0.093,0.290,0.192,0.300,✅
+upload_medium,0.275,0.450,0.362,0.500,✅
+upload_large,0.705,1.093,0.899,1.000,✅
+download_small,0.104,0.107,0.106,0.200,✅
+download_medium,0.102,0.186,0.144,0.300,✅
+download_large,0.163,0.243,0.203,0.500,✅
+list,0.050,0.054,0.052,0.100,✅
+delete_small,0.049,0.057,0.053,0.100,✅
+delete_medium,0.052,0.054,0.053,0.100,✅
+delete_large,0.050,0.054,0.052,0.100,✅

@@ -1,0 +1,6 @@
+Test Name,Status,Duration (s),Error
+Non-existent file upload,FAIL,0.00,File not found: non_existent.pdf
+Invalid file type,PASS,4.01,
+Invalid metadata,FAIL,0.00,'NoneType' object has no attribute 'encode'
+Network failure simulation,PASS,4.01,
+Large file upload,PASS,1.54,
